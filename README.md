@@ -1,28 +1,26 @@
-# This is a large heading
+# Cheng-Han Yu
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Houston, in the state of Texas, in the United States
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite subjects are:
 
-Here is `some code` in the middle of a sentence.
+- *Bayesian Statistics* in Statistics
+- *Probability Theory* in Mathematics
+- *Machine Learning* in Computer Science
 
-```
-This is
-a block
-of code
-```
+### Programming Language
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about writing these languages:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Go by Google. 
+2. Swift by Apple.
+3. Ruby by Yukihiro Matsumoto.
+
+### Contact
+
+The best way to get in touch with me is [on my personal website](https://chenghanyu.github.io/).
